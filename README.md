@@ -13,7 +13,7 @@ Some considerations were taken into account, such as the following:
    ![img.png](img.png)
 
 2. When calculating statistics, if the number of humans becomes zero, then the ratio is zero.
-   considerations
+  
    
 ## Instructions to run the application
 
